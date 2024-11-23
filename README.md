@@ -1,2 +1,2 @@
 # Tigidik
-Asynchronous Python SQL command constructor adapted for dataclasses
+Asynchronous Python SQLite command constructor adapted for dataclasses
